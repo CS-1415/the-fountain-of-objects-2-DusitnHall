@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08.Tests\\Lab08.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08.Tests\\Lab08.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08.Tests\\Lab08.Tests.csproj",
+        "projectName": "Lab08.Tests",
+        "projectPath": "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08.Tests\\Lab08.Tests.csproj",
+        "packagesPath": "C:\\Users\\Hall\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hall\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08\\Lab08.csproj": {
+                "projectPath": "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08\\Lab08.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08\\Lab08.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08\\Lab08.csproj",
+        "projectName": "Lab08",
+        "projectPath": "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08\\Lab08.csproj",
+        "packagesPath": "C:\\Users\\Hall\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hall\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

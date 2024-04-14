@@ -1,0 +1,11 @@
+C:\Users\Hall\Desktop\code-dir-2\the-fountain-of-objects-2-DusitnHall\Lab08\bin\Debug\net7.0\Lab08.deps.json
+C:\Users\Hall\Desktop\code-dir-2\the-fountain-of-objects-2-DusitnHall\Lab08\bin\Debug\net7.0\Lab08.dll
+C:\Users\Hall\Desktop\code-dir-2\the-fountain-of-objects-2-DusitnHall\Lab08\bin\Debug\net7.0\Lab08.pdb
+C:\Users\Hall\Desktop\code-dir-2\the-fountain-of-objects-2-DusitnHall\Lab08\obj\Debug\net7.0\Lab08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hall\Desktop\code-dir-2\the-fountain-of-objects-2-DusitnHall\Lab08\obj\Debug\net7.0\Lab08.AssemblyInfoInputs.cache
+C:\Users\Hall\Desktop\code-dir-2\the-fountain-of-objects-2-DusitnHall\Lab08\obj\Debug\net7.0\Lab08.AssemblyInfo.cs
+C:\Users\Hall\Desktop\code-dir-2\the-fountain-of-objects-2-DusitnHall\Lab08\obj\Debug\net7.0\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\Hall\Desktop\code-dir-2\the-fountain-of-objects-2-DusitnHall\Lab08\obj\Debug\net7.0\Lab08.dll
+C:\Users\Hall\Desktop\code-dir-2\the-fountain-of-objects-2-DusitnHall\Lab08\obj\Debug\net7.0\refint\Lab08.dll
+C:\Users\Hall\Desktop\code-dir-2\the-fountain-of-objects-2-DusitnHall\Lab08\obj\Debug\net7.0\Lab08.pdb
+C:\Users\Hall\Desktop\code-dir-2\the-fountain-of-objects-2-DusitnHall\Lab08\obj\Debug\net7.0\ref\Lab08.dll

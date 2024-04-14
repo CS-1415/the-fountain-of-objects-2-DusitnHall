@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Lab08/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Lab08.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab08.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab08/1.0.0": {
+      "type": "project",
+      "path": "../Lab08/Lab08.csproj",
+      "msbuildProject": "../Lab08/Lab08.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Lab08 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Hall\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08.Main\\Lab08.Main.csproj",
+      "projectName": "Lab08.Main",
+      "projectPath": "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08.Main\\Lab08.Main.csproj",
+      "packagesPath": "C:\\Users\\Hall\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08.Main\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Hall\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08\\Lab08.csproj": {
+              "projectPath": "C:\\Users\\Hall\\Desktop\\code-dir-2\\the-fountain-of-objects-2-DusitnHall\\Lab08\\Lab08.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
